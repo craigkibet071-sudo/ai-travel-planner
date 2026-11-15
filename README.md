@@ -2,7 +2,7 @@
 
 A full-stack web app that generates day-by-day trip itineraries. Choose a destination, budget and interests, and get a plan with attractions, restaurants and an interactive map. Create an account to save trips to a personal dashboard and revisit them later.
 
-**Live demo:** https://YOUR-APP-ADDRESS.vercel.app
+**Live demo:** https://ai-travel-planner-u7qa.vercel.app/
 
 ## Features
 
